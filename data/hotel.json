@@ -1,0 +1,279 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "nome_hotel": "Hotel Sol da Praia",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289614537.jpg?k=216ec7c7bb1025fc7838466ae070125c4c2bc353c37662d682df75a964f46420&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523697050.jpg?k=21f8cfc38c155d5480ca123257b8e0e9f0ce24d0c035d10a458cd107c9b476ad&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289625452.jpg?k=f696c601117ed5b46c725218c3c165dd3280d6804619a144a45a4cce74b77d1c&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289616229.jpg?k=6619e26b4af97860be73b97e907e81865fc7d74e5df3566ce52bb352c4a5eca5&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289624123.jpg?k=8fcc2dc5f9ab6799e9b5f040c4d0396817173c380e565dc8a437e3742b947590&o=&hp=1"
+      ],
+      "classificacao": 5,
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "preco_diaria": 450,
+      "descricao_completa": "O Hotel Sol da Praia oferece luxo e conforto à beira-mar, com uma vista deslumbrante para o oceano e serviços de alta qualidade.",
+      "itens_servicos": [
+        "Ar-condicionado, TV a cabo, Wi-Fi gratuito, cofre, frigobar",
+        "Piscina ao ar livre, spa, academia, sauna",
+        "Serviço de quarto 24 horas, estacionamento gratuito, lavanderia, recepção 24 horas"
+      ]
+    },
+    {
+      "id": "2",
+      "nome_hotel": "Pousada Vento Sul",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/589647598.jpg?k=9d39817dd4a637ab6627b66335b973f70c38e6d2b908b3a5336451a7c253818c&o=&hp=1",
+        "https://cf.bstatic.com/xdatsa/images/hotel/max1024x768/589647594.jpg?k=2574178c141eed32277d0faf9f3cc9ad16abd17f30b7e9deb44834bdad7665f2&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/570720154.jpg?k=64a179478dd3d104c62a32b22cb80ff2bbbd4b9d046c68ea9de1953b40e0d07b&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/570720066.jpg?k=6185235e8d0407cb6fe73fd2ada0380e802b75021eeff73883b5b0ed453fc87c&o=&hp=1"
+      ],
+      "classificacao": 4,
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "preco_diaria": 320,
+      "descricao_completa": "A Pousada Vento Sul é ideal para quem deseja descansar em meio à natureza. Localizada próxima à Praia do Campeche, oferece tranquilidade e um atendimento acolhedor.",
+      "itens_servicos": [
+        "Ventilador, TV a cabo, Wi-Fi, frigobar, varanda com rede",
+        "Piscina, churrasqueira, jardim",
+        "Café da manhã incluído, estacionamento gratuito, aluguel de bicicletas"
+      ]
+    },
+    {
+      "id": "3",
+      "nome_hotel": "Hotel Urbano",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527958581.jpg?k=12d6d5fe3944d3f6340492185bc458e23cb83b6cc96b267862638caa3ee9dd03&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527986485.jpg?k=24e125a7800a39e3e49eaa07fa1cdb21069df6766b357e2b4d56c23122d9d7c1&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/597573124.jpg?k=f68d8f40d7511e8348ab8a2017cd4c1255637fa7c295d91c207ce510496441d9&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527959016.jpg?k=bec7e2717aecb25b2bfbcb0a606a141906cab5b47919a08ae1ef727fc996efa3&o=&hp=1"
+      ],
+      "classificacao": 3,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "preco_diaria": 280,
+      "descricao_completa": "O Hotel Urbano é uma excelente escolha para viajantes a negócios e a lazer. Localizado no centro de São Paulo, oferece fácil acesso às principais atrações da cidade.",
+      "itens_servicos": [
+        "Ar-condicionado, TV a cabo, Wi-Fi gratuito, frigobar",
+        "Academia, sala de reuniões",
+        "Serviço de quarto, estacionamento pago, lavanderia, recepção 24 horas"
+      ]
+    },
+    {
+      "id": "4",
+      "nome_hotel": "Resort Paraíso Tropical",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/305712997.jpg?k=5c8ca19763f93daf58298f5fba6203532c9c9071c395f9511e7b42d3a96185d7&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250452565.jpg?k=f5e623af7c71a59d897c66e2960ff7f445091433014252feb58f4293db67d9f7&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250452607.jpg?k=cc2eacf38aff882f2851065256741b4778b1c8cfdd0618df0cab972f940c7554&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250453631.jpg?k=1372ed4b1e7b8b7cc4ee09857496cf711110933aaab8d804755e7b5ff86a5e53&o=&hp=1"
+      ],
+      "classificacao": 5,
+      "cidade": "Porto Seguro",
+      "estado": "BA",
+      "preco_diaria": 600,
+      "descricao_completa": "O Resort Paraíso Tropical é um destino de sonho para famílias e casais. Oferece uma ampla gama de atividades de lazer, piscinas, restaurantes e uma praia privada.",
+      "itens_servicos": [
+        "Ar-condicionado, TV a cabo, Wi-Fi, cofre, frigobar, varanda com vista",
+        "Piscinas, quadras de tênis, spa, academia, clube infantil",
+        "Serviço de quarto, restaurantes, estacionamento gratuito, recepção 24 horas"
+      ]
+    },
+    {
+      "id": "5",
+      "nome_hotel": "Hotel Vila do Mar",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268379627.jpg?k=edca01191219c5c64e2bf598a28c20752ea915bf7aa2c9b2386a8644e243984c&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155842920.jpg?k=3214842ab0a5d90b0aeb42fb17737526fe1e0218b125332f671a26c36465d193&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42008534.jpg?k=b6e4d26e9956b0d260b1b713ce5210d4bf8391347f133d3cab86bdb72c46ed46&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/250453631.jpg?k=1372ed4b1e7b8b7cc4ee09857496cf711110933aaab8d804755e7b5ff86a5e53&o=&hp=1"
+      ],
+      "classificacao": 4,
+      "cidade": "Natal",
+      "estado": "RN",
+      "preco_diaria": 350,
+      "descricao_completa": "O Hotel Vila do Mar combina conforto com a bela vista do mar de Natal. Ideal para relaxar e aproveitar as belezas naturais da região.",
+      "itens_servicos": [
+        "Ar-condicionado, TV a cabo, Wi-Fi gratuito, frigobar",
+        "Piscina, bar na piscina, spa",
+        "Serviço de quarto, estacionamento gratuito, transfer para o aeroporto"
+      ]
+    },
+    {
+      "id": "6",
+      "nome_hotel": "Hotel Montanha Azul",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/523697050.jpg?k=21f8cfc38c155d5480ca123257b8e0e9f0ce24d0c035d10a458cd107c9b476ad&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289616229.jpg?k=6619e26b4af97860be73b97e907e81865fc7d74e5df3566ce52bb352c4a5eca5&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289614537.jpg?k=216ec7c7bb1025fc7838466ae070125c4c2bc353c37662d682df75a964f46420&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289625452.jpg?k=f696c601117ed5b46c725218c3c165dd3280d6804619a144a45a4cce74b77d1c&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/289624123.jpg?k=8fcc2dc5f9ab6799e9b5f040c4d0396817173c380e565dc8a437e3742b947590&o=&hp=1"
+      ],
+      "classificacao": 3,
+      "cidade": "Campos do Jordão",
+      "estado": "SP",
+      "preco_diaria": 250,
+      "descricao_completa": "O Hotel Montanha Azul é um refúgio aconchegante nas montanhas de Campos do Jordão. Ideal para quem procura relaxar em meio ao frio da serra.",
+      "itens_servicos": [
+        "Lareira, TV a cabo, Wi-Fi gratuito, frigobar",
+        "Piscina aquecida, sala de jogos, jardim",
+        "Café da manhã incluído, estacionamento gratuito"
+      ]
+    },
+    {
+      "id": "7",
+      "nome_hotel": "Hotel Beira Rio",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/570720154.jpg?k=64a179478dd3d104c62a32b22cb80ff2bbbd4b9d046c68ea9de1953b40e0d07b&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/589647598.jpg?k=9d39817dd4a637ab6627b66335b973f70c38e6d2b908b3a5336451a7c253818c&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/570720066.jpg?k=6185235e8d0407cb6fe73fd2ada0380e802b75021eeff73883b5b0ed453fc87c&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/589647594.jpg?k=2574178c141eed32277d0faf9f3cc9ad16abd17f30b7e9deb44834bdad7665f2&o=&hp=1"
+      ],
+      "classificacao": 4,
+      "cidade": "Belém",
+      "estado": "PA",
+      "preco_diaria": 270,
+      "descricao_completa": "O Hotel Beira Rio oferece uma experiência única com vista para o Rio Guamá. Localizado próximo aos principais pontos turísticos de Belém.",
+      "itens_servicos": [
+        "Ar-condicionado, TV a cabo, Wi-Fi gratuito, frigobar",
+        "Piscina, bar, restaurante",
+        "Serviço de quarto, estacionamento gratuito, transfer para o aeroporto"
+      ]
+    },
+    {
+      "id": "8",
+      "nome_hotel": "Pousada do Farol",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/597573124.jpg?k=f68d8f40d7511e8348ab8a2017cd4c1255637fa7c295d91c207ce510496441d9&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527986485.jpg?k=24e125a7800a39e3e49eaa07fa1cdb21069df6766b357e2b4d56c23122d9d7c1&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527958581.jpg?k=12d6d5fe3944d3f6340492185bc458e23cb83b6cc96b267862638caa3ee9dd03&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527959016.jpg?k=bec7e2717aecb25b2bfbcb0a606a141906cab5b47919a08ae1ef727fc996efa3&o=&hp=1"
+      ],
+      "classificacao": 3,
+      "cidade": "Arraial do Cabo",
+      "estado": "RJ",
+      "preco_diaria": 230,
+      "descricao_completa": "A Pousada do Farol oferece uma estadia tranquila em uma das regiões mais bonitas do litoral carioca, a poucos passos das praias mais famosas.",
+      "itens_servicos": [
+        "Ventilador, TV, Wi-Fi gratuito, frigobar",
+        "Piscina, área de churrasqueira",
+        "Café da manhã incluído, estacionamento gratuito"
+      ]
+    },
+    {
+      "id": "9",
+      "nome_hotel": "Hotel Porto Maravilha",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155842920.jpg?k=3214842ab0a5d90b0aeb42fb17737526fe1e0218b125332f671a26c36465d193&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268379627.jpg?k=edca01191219c5c64e2bf598a28c20752ea915bf7aa2c9b2386a8644e243984c&o=&hp=1",
+        "https://example.com/images/hotel_vila_mar_4.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42008534.jpg?k=b6e4d26e9956b0d260b1b713ce5210d4bf8391347f133d3cab86bdb72c46ed46&o=&hp=1"
+      ],
+      "classificacao": 5,
+      "cidade": "Salvador",
+      "estado": "BA",
+      "preco_diaria": 550,
+      "descricao_completa": "O Hotel Porto Maravilha oferece luxo e sofisticação na orla de Salvador. Com localização privilegiada, é ideal para quem busca conforto e proximidade das principais atrações turísticas.",
+      "itens_servicos": [
+        "Ar-condicionado, TV a cabo, Wi-Fi gratuito, cofre, frigobar",
+        "Piscina com borda infinita, spa, academia, restaurante gourmet",
+        "Serviço de quarto 24 horas, estacionamento gratuito, transfer para o aeroporto"
+      ]
+    },
+    {
+      "id": "10",
+      "nome_hotel": "Eco Resort da Serra",
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42008534.jpg?k=b6e4d26e9956b0d260b1b713ce5210d4bf8391347f133d3cab86bdb72c46ed46&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/527958581.jpg?k=12d6d5fe3944d3f6340492185bc458e23cb83b6cc96b267862638caa3ee9dd03&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155842920.jpg?k=3214842ab0a5d90b0aeb42fb17737526fe1e0218b125332f671a26c36465d193&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/268379627.jpg?k=edca01191219c5c64e2bf598a28c20752ea915bf7aa2c9b2386a8644e243984c&o=&hp=1"
+      ],
+      "classificacao": 4,
+      "cidade": "Gramado",
+      "estado": "RS",
+      "preco_diaria": 480,
+      "descricao_completa": "O Eco Resort da Serra é um lugar perfeito para quem quer se conectar com a natureza. Localizado em Gramado, oferece atividades ao ar livre e conforto em meio à serra gaúcha.",
+      "itens_servicos": [
+        "Lareira, TV a cabo, Wi-Fi gratuito, frigobar",
+        "Piscina aquecida, trilhas ecológicas, área de piquenique",
+        "Café da manhã incluído, estacionamento gratuito, transfer para o centro da cidade"
+      ]
+    },
+    {
+      "id": "8072f721-a502-414b-8690-f74690929461",
+      "nome_hotel": "Copenhagen",
+      "classificacao": "5",
+      "cidade": "Copenhagen",
+      "estado": "Copenhagen",
+      "preco_diaria": "2994",
+      "descricao_completa": "O hotel 4 estrelas citizenM Copenhagen Radhuspladsen oferece recepção 24 horas e está localizado no centro de Copenhague. O hotel possui murais de artistas dinamarqueses nas áreas externas e internas, e você pode relaxar no lounge aconchegante.",
+      "itens_servicos": [
+        "O hotel 4 estrelas citizenM Copenhagen Radhuspladsen oferece recepção 24 horas e está localizado no centro de Copenhague. O hotel possui murais de artistas dinamarqueses nas áreas externas e internas",
+        "e você pode relaxar no lounge aconchegante."
+      ],
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/252382848.jpg?k=3b5f85b630592caa83bee23535a6ed4c3b2930faf0f2964ff17ad7da4e8a86b8&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/252382848.jpg?k=3b5f85b630592caa83bee23535a6ed4c3b2930faf0f2964ff17ad7da4e8a86b8&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/252382848.jpg?k=3b5f85b630592caa83bee23535a6ed4c3b2930faf0f2964ff17ad7da4e8a86b8&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/252382848.jpg?k=3b5f85b630592caa83bee23535a6ed4c3b2930faf0f2964ff17ad7da4e8a86b8&o=&hp=1"
+      ]
+    },
+    {
+      "id": "f79de102-acca-4d55-bdff-2892b2ee6a36",
+      "nome_hotel": "Gabriel",
+      "classificacao": "5",
+      "cidade": "Gabriel",
+      "estado": "Gabriel",
+      "preco_diaria": "333",
+      "descricao_completa": "Gabriel",
+      "itens_servicos": [
+        "Gabriel"
+      ],
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/538159434.jpg?k=6438f437849554f51f18c48d742c640ab475e2d0051797f38c3106fc7545efd8&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/538159434.jpg?k=6438f437849554f51f18c48d742c640ab475e2d0051797f38c3106fc7545efd8&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/538159434.jpg?k=6438f437849554f51f18c48d742c640ab475e2d0051797f38c3106fc7545efd8&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/538159434.jpg?k=6438f437849554f51f18c48d742c640ab475e2d0051797f38c3106fc7545efd8&o=&hp=1"
+      ]
+    },
+    {
+      "id": "c00932e8-2d9a-4946-9359-dbb27604498d",
+      "nome_hotel": "JOANA DARK",
+      "classificacao": "5",
+      "cidade": "JOANA DARK",
+      "estado": "JOANA DARK",
+      "preco_diaria": "500",
+      "descricao_completa": "JOANA DARK",
+      "itens_servicos": [
+        "JOANA DARK"
+      ],
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211018273.jpg?k=a13df685d261701967e4fbc96199bf8d0ca856555dcc672e17d208881201e181&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211018273.jpg?k=a13df685d261701967e4fbc96199bf8d0ca856555dcc672e17d208881201e181&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211018273.jpg?k=a13df685d261701967e4fbc96199bf8d0ca856555dcc672e17d208881201e181&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/211018273.jpg?k=a13df685d261701967e4fbc96199bf8d0ca856555dcc672e17d208881201e181&o=&hp=1"
+      ]
+    },
+    {
+      "id": "7d16a757-b417-42c9-84a5-c32e21c90bc3",
+      "nome_hotel": "Belo Horizonte",
+      "classificacao": "4",
+      "cidade": "Belo Horizonte",
+      "estado": "Belo Horizonte",
+      "preco_diaria": "329",
+      "descricao_completa": "Belo Horizonte",
+      "itens_servicos": [
+        "Belo Horizonte"
+      ],
+      "imagens": [
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134809056.jpg?k=a98cf93ebf17f76f4381b3da66140a8612d00ce3681e34af50a9f7aaf30bc5ce&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134809056.jpg?k=a98cf93ebf17f76f4381b3da66140a8612d00ce3681e34af50a9f7aaf30bc5ce&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134809056.jpg?k=a98cf93ebf17f76f4381b3da66140a8612d00ce3681e34af50a9f7aaf30bc5ce&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134809056.jpg?k=a98cf93ebf17f76f4381b3da66140a8612d00ce3681e34af50a9f7aaf30bc5ce&o=&hp=1"
+      ]
+    }
+  ]
+}

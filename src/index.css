@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.customOverlay {
+	background: white;
+}
+
+.customModal {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+
+	transform: translate(-50%, -50%);
+
+	z-index: 10;
+	background: #fff;
+	max-width: 768px;
+	width: 100%;
+	border-radius: 15px;
+}
+
+.closeIcon {
+	position: absolute;
+	top: 0;
+	right: 0;
+
+	background-color: rgb(245, 126, 126);
+	fill: rgb(119, 0, 0);
+	border-radius: 100%;
+}
